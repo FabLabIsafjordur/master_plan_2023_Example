@@ -7,5 +7,7 @@ Ideally we want to use markdown and chose our individual tools that best suits u
 ## usefull markdown tools and info
 
 [Makrkdown table generator and converter](https://tabletomarkdown.com/generate-markdown-table/)
+
 [Staying Organized with Markdown](https://www.mayerdan.com/programming/2016/11/26/standup-markdown-history)
+
 [Makrdown Tools](https://www.markdownguide.org/tools/)
